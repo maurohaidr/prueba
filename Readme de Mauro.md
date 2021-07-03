@@ -1,1 +1,0 @@
-Este es el Readme de Mauro

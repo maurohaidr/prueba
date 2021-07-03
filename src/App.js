@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
           Mauro
+          Juana
         </a>
       </header>
     </div>
